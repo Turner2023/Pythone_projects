@@ -1,2 +1,2 @@
-# Pythone_projects
-User's project for portfolio
+# Yandex realty
+Pythone project 1
