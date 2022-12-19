@@ -1,4 +1,4 @@
-# Projects names
+# Project's names
 1. Credits.ipynb - Исследование надежности заемщиков
 2. Yandex-homes.ipynb - Исследование объявлений о продаже квартир
 3. AB-test.ipynb - Анализ воронки продаж и результатов A/B тестирования
