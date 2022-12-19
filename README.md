@@ -1,2 +1,4 @@
-# Yandex realty
-Pythone project 1
+# Projects names
+1. Credits.ipynb - Исследование надежности заемщиков
+2. Yandex-homes.ipynb - Исследование объявлений о продаже квартир
+3. AB-test.ipynb - Анализ воронки продаж и результатов A/B тестирования
